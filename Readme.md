@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Иванченко](https://up.htmlacademy.ru/javascript/15/user/470147).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Зубов](https://up.htmlacademy.ru/javascript/15/user/42701).
 
 ---
 
